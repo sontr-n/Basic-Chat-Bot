@@ -1,0 +1,10 @@
+#pycharm
+.idea
+__pycache__
+
+#virtualenv
+bin
+lib
+man
+pip-selfcheck.json
+

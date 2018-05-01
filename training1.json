@@ -1,0 +1,384 @@
+[
+{
+    "category" : "chào hỏi",
+    "ques" : ["ê"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn ?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["chào"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["hello"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["hi"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["ê"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn ?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["chào"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["hello"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "chào hỏi",
+    "ques" : ["hi"],
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "thời tiết",
+    "ques" : ["thời tiết"],
+    "ans" : "Hôm nay 30 độ, trời nhiều mây không mưa"
+},
+{
+    "category" : "thời tiết",
+    "ques" : ["thời tiết"],
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "nóng"],
+    "ans" : "Chiều nay trời nóng với mức nhiệt là 30 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "lạnh"],
+    "ans" : "Chiều nay trời nóng với mức nhiệt là 30 độ"
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "nắng"],
+    "ans" : "Sáng nay trời nhiều mây không mưa"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "nắng"],
+    "ans" : "Chiều nay trời nhiều mây không mưa"
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "mưa"],
+    "ans" : "Chiều nay trời nhiều mây không mưa "
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "nóng"],
+    "ans" : "Sáng mai trời nóng với mức nhiệt là 29 độ"
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" :  ["trời", "lạnh"],
+    "ans" : "Sáng mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "lạnh"],
+    "ans" : "Chiều mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "lạnh"],
+    "ans" : "Tối mai trời mát với mức nhiệt là 25 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "nắng"],
+    "ans" : "Sáng mai trời nắng và có mây"
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "mưa"],
+    "ans" : "Sáng mai trời nắng và có mây"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời", "mưa"],
+    "ans" : "Tối mai trời nhiều mây không mưa"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["Nhiệt độ"],
+    "ans" : "30 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["Nhiệt độ"],
+    "ans" : "29 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["Nhiệt độ"],
+    "ans" : "24 độ"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["Trời"],
+    "ans" : "Hôm nay 30 độ, trời nhiều mây không mưa"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["Trời"],
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời"],
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+
+{
+    "category" : "thời tiết",
+    "ques" : ["trời"],
+    "ans" : "Cuối tuần 24 độ, trời có lúc có mưa"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["chỗ ", "ăn"],
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["chỗ ", "ăn"],
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["trời", "nóng", "ăn"],
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["trời", "lạnh", "ăn"],
+    "ans" : "Ngõ ao sen"
+},
+
+
+{
+    "category" : "ăn uống",
+    "ques" : ["chỗ ", "ăn"],
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán", "ngon"],
+    "ans" : "Bánh mì chảo số 12 ngõ 3 ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán", "rẻ"],
+    "ans" : "Bánh mì số 10 ngõ 2 ao sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán", "ăn"],
+    "ans" : "Pizza Hut 110 Trần Phú"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán"],
+    "ans" : "214 Nguyễn Trãi"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán"],
+    "ans" : "Lotteria số 10 Nguyễn Trãi"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" :["quán"],
+    "ans" : "Highlands Coffee số 104 Nguyễn Trãi"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán", "phở"],
+    "ans" : "Số 19B ngõ 2 Ao Sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["quán", "bánh mỳ", "ngon"],
+    "ans" : "Số 10 ngõ 2 Ao Sen"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["địa điểm", "quán", "ngon"],
+    "ans" : "Bún chả 34 hàng than, phở cuốn 35 Nguyễn Khắc Huân, Phở xào Ngũ Xã"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Bánh cuốn, Bánh mì, phở"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Cơm, pizza"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["uống", "coffe"],
+    "ans" : "Highlands Coffee số 104 Nguyễn Trãi"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Bún chả 34 Hàng Than"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Bánh giò số 5 Thụy Khuê"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Pizza Hut tầng 1 Hồ Gươm Plaza"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Cơm rang, phở, bánh mì"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "ngon"],
+    "ans" : "Bánh cuốn, Bánh mì, phở"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "ngon"],
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "ngon"],
+    "ans" : "Cơm, pizza, mì xào"
+},
+
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "ngon"],
+    "ans" : "Chả cá số 20 Hạ Hồi quận Hoàn Kiếm"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "ngon"],
+    "ans" : "Pizza 4P's số 43 Tràng Tiền"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn"],
+    "ans" : "Bánh mì, sữa, mì xào"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "rẻ"],
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "rẻ"],
+    "ans" : "Cơm, mì, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "rẻ", "ngon"],
+    "ans" : "Phở, bún, bánh mì"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "rẻ", "ngon"],
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "rẻ", "ngon"],
+    "ans" : "Cơm, mì xào, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "dinh dưỡng"],
+    "ans" : "Mì xào, bánh mì, bún"
+},
+
+{
+    "category" : "ăn uống",
+    "ques" : ["ăn", "dinh dưỡng"],
+    "ans" : "Cơm, mì xào, bún"
+}
+
+]

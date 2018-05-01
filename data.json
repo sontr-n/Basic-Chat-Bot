@@ -1,0 +1,497 @@
+[
+{
+    "category" : "greeting",
+    "ques" : "chào bot",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "greeting",
+    "ques" : "ê bot",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "greeting",
+    "ques" : "Hello bot",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "greeting",
+    "ques" : "Chào bạn",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "greeting",
+    "ques" : "Hello bạn",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "greeting",
+    "ques" : "Hi bạn",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn?"
+},
+{
+    "category" : "weather",
+    "ques" : "Hôm nay thời tiết như thế nào ?",
+    "ans" : "Hôm nay 30 độ, trời nhiều mây không mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Ngày mai thời tiết như thế nào ?",
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+{
+    "category" : "weather",
+    "ques" : "Ngày kia thời tiết như thế nào ?",
+    "ans" : "Ngày kia 25 độ, trời có mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Cuối tuần thời tiết như thế nào ? ",
+    "ans" : "Cuối tuần 24 độ, trời có lúc có mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Sáng nay trời có nóng không ?",
+    "ans" : "Sáng nay trời nóng với mức nhiệt là 30 độ"
+},
+{
+    "category" : "weather",
+    "ques" : "Chiều nay trời có nóng không ?",
+    "ans" : "Chiều nay trời nóng với mức nhiệt là 30 độ"
+},
+{
+    "category" : "weather",
+    "ques" : "Tối nay trời có nóng không ?",
+    "ans" : "Tối nay trời mát với mức nhiệt là 26 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng nay trời có lạnh không ?",
+    "ans" : "Sáng nay trời nóng với mức nhiệt là 30 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều nay trời có lạnh không ?",
+    "ans" : "Chiều nay trời nóng với mức nhiệt là 30 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Tối nay trời có lạnh không ?",
+    "ans" : "Tối nay trời mát với mức nhiệt là 26 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng nay trời có nắng không ?",
+    "ans" : "Sáng nay trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều nay trời có nắng không ?",
+    "ans" : "Chiều nay trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng nay trời có mưa không ?",
+    "ans" : "Sáng nay trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều nay trời có mưa không ?",
+    "ans" : "Chiều nay trời nhiều mây không mưa "
+},
+
+{
+    "category" : "weather",
+    "ques" : "Tối nay trời có mưa không ?",
+    "ans" : "Tối nay trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng mai trời có nóng không ?",
+    "ans" : "Sáng mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều mai trời có nóng không ?",
+    "ans" : "Chiều mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Tối mai trời có nóng không ?",
+    "ans" : "Tối mai trời mát với mức nhiệt là 25 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng mai trời có lạnh không ?",
+    "ans" : "Sáng mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều mai trời có lạnh không ?",
+    "ans" : "Chiều mai trời nóng với mức nhiệt là 29 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Tối mai trời có lạnh không ?",
+    "ans" : "Tối mai trời mát với mức nhiệt là 25 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng mai trời có nắng không ?",
+    "ans" : "Sáng mai trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều mai trời có nắng không ?",
+    "ans" : "Chiều mai trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Sáng mai trời có mưa không ?",
+    "ans" : "Sáng mai trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Chiều mai trời có mưa không ?",
+    "ans" : "Chiều mai trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Tối mai trời có mưa không ?",
+    "ans" : "Tối mai trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nhiệt độ hôm nay bao nhiêu ?",
+    "ans" : "30 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nhiệt độ ngày mai bao nhiêu ?",
+    "ans" : "29 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nhiệt độ cuối tuần bao nhiêu ?",
+    "ans" : "24 độ"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Trời hôm nay có đẹp không ?",
+    "ans" : "Hôm nay 30 độ, trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Trời ngày mai có đẹp không ?",
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "thời tiết cuối tuần có đẹp không ?",
+    "ans" : "Cuối tuần 24 độ, trời có lúc có mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nghe nói hôm nay trời đẹp lắm phải không ?",
+    "ans" : "Hôm nay 30 độ, trời nhiều mây không mưa"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nghe nói ngày mai trời đẹp lắm phải không?",
+    "ans" : "Ngày mai 29 độ, trời nắng và có mây"
+},
+
+{
+    "category" : "weather",
+    "ques" : "Nghe nói cuối tuần trời đẹp lắm phải không ?",
+    "ans" : "Cuối tuần 24 độ, trời có lúc có mưa"
+},
+{
+"category" : "greeting",
+    "ques" : "Xin chào",
+    "ans" : "Hi, mình có thể giúp được gì cho bạn ?"
+},
+{
+    "category" : "weather",
+    "ques" : "Mai có nắng không ?",
+    "ans" : "Mai trời nắng và có mây"
+},
+{
+    "category" : "weather",
+    "ques" : "Trời nóng quá, không biết chiều có mưa không nhỉ ?",
+    "ans" : "Chiều nay trời nhiều mây không mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Mưa cả sáng thế này chiều có tạnh không ?",
+    "ans" : "Chiều nay trời nhiều mây không mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Không biết cuối tuần có mưa không nhỉ ?",
+    "ans" : "Cuối tuần trời có lúc có mưa"
+},
+{
+    "category" : "weather",
+    "ques" : "Tối đi chơi liệu thời tiết có đẹp không ?",
+    "ans" : "Tối nay trời mát với mức nhiệt là 26 độ"
+},
+{
+    "category" : "eatting",
+    "ques" : "Trưa học xong thì ăn gì ?",
+    "ans" : "Cơm, phở, bún"
+},
+{
+    "category" : "eatting",
+    "ques" : "Vừa ngủ dậy đói quá, ăn gì bây giờ ?",
+    "ans" : "Bánh cuốn, bánh mì, phở"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Quanh đây có chỗ nào ăn sáng không ?",
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "trời nóng thì ăn gì nhỉ?",
+    "ans" : "ăn kem"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "trời lạnh thì ăn gì nhỉ?",
+    "ans" : "chịu"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Quanh đây có chỗ nào ăn sáng không ?",
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Quanh đây có chỗ nào ăn trưa không ?",
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Quanh đây có chỗ nào ăn tối không ?",
+    "ans" : "Ngõ ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Gần đây có quán nào ngon không ?",
+    "ans" : "Bánh mì chảo số 12 ngõ 3 ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Gần đây có quán nào rẻ không ?",
+    "ans" : "Bánh mì số 10 ngõ 2 ao sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm quán ăn nhanh gần đây",
+    "ans" : "Pizza Hut 110 Trần Phú"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm vị trí quán KFC gần nhất",
+    "ans" : "214 Nguyễn Trãi"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm vị trí quán lotte gần nhất",
+    "ans" : "Lotteria số 10 Nguyễn Trãi"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm vị trí quán coffe gần nhất",
+    "ans" : "Highlands Coffee số 104 Nguyễn Trãi"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm quán phở gần đây",
+    "ans" : "Số 19B ngõ 2 Ao Sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm quán bánh mỳ ngon",
+    "ans" : "Số 10 ngõ 2 Ao Sen"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tìm địa điểm một số quán ngon ở hà nội",
+    "ans" : "Bún chả 34 hàng than, phở cuốn 35 Nguyễn Khắc Huân, Phở xào Ngũ Xã"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Sáng nay nên ăn gì nhỉ ?",
+    "ans" : "Bánh cuốn, Bánh mì, phở"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Trưa nay nên ăn gì nhỉ ?",
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tối nay nên ăn gì nhỉ ?",
+    "ans" : "Cơm, pizza"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tôi muốn uống coffe",
+    "ans" : "Highlands Coffee số 104 Nguyễn Trãi"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tôi muốn ăn trưa",
+    "ans" : "Bún chả 34 Hàng Than"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tôi muốn ăn sáng",
+    "ans" : "Bánh giò số 5 Thụy Khuê"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Lát nữa nên ăn gì nhỉ ?",
+    "ans" : "Cơm rang, phở, bánh mì"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa sáng ăn gì cho ngon ?",
+    "ans" : "Bánh cuốn, Bánh mì, phở"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa trưa ăn gì cho ngon ?",
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa tối ăn gì cho ngon ?",
+    "ans" : "Cơm, pizza, mì xào"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Có chỗ nào ăn sáng mà ngon không ?",
+    "ans" : "Phở số 129 Hoàng Văn Thái"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Có chỗ nào ăn trưa mà ngon không ?",
+    "ans" : "Chả cá số 20 Hạ Hồi quận Hoàn Kiếm"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Có chỗ nào ăn tối mà ngon không ?",
+    "ans" : "Pizza 4P's số 43 Tràng Tiền"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Sáng nên ăn gì mà lại rẻ ?",
+    "ans" : "Bánh mì, sữa, mì xào"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Trưa nên ăn gì mà lại rẻ ?",
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Tối nên ăn gì mà lại rẻ ?",
+    "ans" : "Cơm, mì, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa sáng ăn gì vừa rẻ lại ngon ?",
+    "ans" : "Phở, bún, bánh mì"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa trưa ăn gì vừa rẻ lại ngon ?",
+    "ans" : "Cơm rang, phở, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa tối ăn gì vừa rẻ lại ngon ?",
+    "ans" : "Cơm, mì xào, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa sáng nên ăn gì cho có đủ dinh dưỡng ?",
+    "ans" : "Mì xào, bánh mì, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa trưa nên ăn gì cho có đủ dinh dưỡng ?",
+    "ans" : "Cơm, mì xào, bún"
+},
+
+{
+    "category" : "eatting",
+    "ques" : "Bữa tối nên ăn gì cho có đủ dinh dưỡng ?",
+    "ans" : "Cơm, mì xào"
+}
+]
