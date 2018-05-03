@@ -5,7 +5,6 @@ from pyvi import ViTokenizer
 
 
 
-
 def transforming_tokens(text):
     with open("stop_words.txt", "r") as f:
         stop_words = f.read()

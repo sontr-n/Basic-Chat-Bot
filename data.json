@@ -444,54 +444,54 @@
 {
     "category" : "eatting",
     "ques" : "Sáng nên ăn gì mà lại rẻ ?",
-    "ans" : "Bánh mì, sữa, mì xào"
+    "ans" : "bữa sáng rẻ có bánh mì, sữa, mì xào"
 },
 
 {
     "category" : "eatting",
     "ques" : "Trưa nên ăn gì mà lại rẻ ?",
-    "ans" : "Cơm rang, phở, bún"
+    "ans" : "bữa trưa rẻ có cơm rang, phở, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Tối nên ăn gì mà lại rẻ ?",
-    "ans" : "Cơm, mì, bún"
+    "ans" : "bữa tối rẻ có cơm, mì, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa sáng ăn gì vừa rẻ lại ngon ?",
-    "ans" : "Phở, bún, bánh mì"
+    "ans" : "Bữa sáng ăn rẻ mà ngon thì có phở, bún, bánh mì"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa trưa ăn gì vừa rẻ lại ngon ?",
-    "ans" : "Cơm rang, phở, bún"
+    "ans" : "Bữa trưa ăn rẻ mà ngon thì có cơm rang, phở, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa tối ăn gì vừa rẻ lại ngon ?",
-    "ans" : "Cơm, mì xào, bún"
+    "ans" : "Bữa sáng ăn rẻ mà ngon thì có cơm, mì xào, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa sáng nên ăn gì cho có đủ dinh dưỡng ?",
-    "ans" : "Mì xào, bánh mì, bún"
+    "ans" : "Bữa sáng đủ dinh dưỡng có mì xào, bánh mì, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa trưa nên ăn gì cho có đủ dinh dưỡng ?",
-    "ans" : "Cơm, mì xào, bún"
+    "ans" : "Bữa trưa đủ dinh dưỡng có cơm, mì xào, bún"
 },
 
 {
     "category" : "eatting",
     "ques" : "Bữa tối nên ăn gì cho có đủ dinh dưỡng ?",
-    "ans" : "Cơm, mì xào"
+    "ans" : "Bữa tối đủ dinh dưỡng có cơm, mì xào"
 }
 ]
