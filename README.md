@@ -1,3 +1,3 @@
-# chat-bot
-##Technology 
-Model is used in this project: Tfidf from gensim
+# BASIC CHAT BOT
+## Technology 
+ - Model is used in this project: Tfidf from gensim
